@@ -34,18 +34,74 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
       - *Acessar o Colab com o email CESAR*
   
 
-## Utilidade e dicas
+## Canais no Youtube sobre Programação e Tecnologia
 
-- **Curso básico de Python (Gustavo Guanabara)**: https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&ab_channel=CursoemV%C3%ADdeo
-- **Curso Completo de Python - do Zero ao Avançado (Masterclass - Bóson)** : https://www.youtube.com/watch?v=-VeVq64Fgw0&t=2s&ab_channel=B%C3%B3sonTreinamentos
-
-
-
-## Bons canais no Youtube sobre Programação e Tecnologia
 - **Curso em Vídeo**: https://www.youtube.com/c/CursoemV%C3%ADdeo
-- 
+            - *Cursos varioados em tecnologia (ótima didática)*
+- **Fenanda Kipper**: https://www.youtube.com/@kipperdev
+              - *Fala sobre várias tecnologias de forma didática e simples*
+- **Mano Deyvin**: https://www.youtube.com/@manodeyvin
+            - *Conteúdo engraçado e de lifestile de Tech*
+- **Augusto Galego**: https://www.youtube.com/@GutoGalego
+            - *Lógica de programação e python*
+- **Micael Mota**: https://www.youtube.com/@devmicaelomota
+            - *Carreira Internacional e conteúdo tech*
+- **Fábio Akita**: https://www.youtube.com/@Akitando
+            - *Conteúdo técnico mais robusto*
+- **Dev Superior**: https://www.youtube.com/@DevSuperior
+            - *O Pai do Java brasileiro*
+- **Código Fonte TV**: https://www.youtube.com/@codigofontetv
+            - *Jornal Nacional da TI*
+- **Attekita Dev**: https://www.youtube.com/@attekitadev
+            - *Dicas e Infos sobre o mundo da tecnologia*
+- **Rafaella Ballerini**: https://www.youtube.com/@rafaellaballerini
+            - *Lifestyle e frontend*
+- **Alura**: https://www.youtube.com/@alura
+            - *Cursos varioados em tecnologia e informações sobre o mundo de TI*
+- **Cod3r Cursos**: https://www.youtube.com/@cod3r
+            - *Cursos varioados em tecnologia*
+- **Rocketseat**: https://www.youtube.com/@rocketseat
+            - *Cursos varioados em tecnologia*
+- **Diolinux Labs**: https://www.youtube.com/@Diolinuxlabs
+            - *Linux*
+- **Diolinux**: https://www.youtube.com/@Diolinux
+            - *Linux*
+- **Lucas Montano**: https://www.youtube.com/@LucasMontano
+            - *Informações sobre o mundo da tecnologia*
+- **Curso De Tecnologia**: https://www.youtube.com/@cursodetecnologia
+            - *O Tio do Java*
+- **Programador Lhama**: https://www.youtube.com/@ProgramadorLhama
+            - *Python e outras paradas legais*
+- **Hardware Hacking**: https://www.youtube.com/@HardwareHacking
+            - *Hardware Hacking*
+
 
 
 ## Livros (Ultrasecreto) 
 
 - **Repositório LivrosDev**: https://github.com/KAYOKG/BibliotecaDev/tree/main/LivrosDev
+
+
+
+
+## Utilidade e dicas
+
+- **Blog Hipster.tech**: https://www.hipsters.tech/
+- **Curso de Design(UX/UI) e Frontend (Pago)**: https://www.origamid.com/
+- **Melhor curso de Java que você verá hoje**: https://www.udemy.com/course/java-curso-completo/?couponCode=ST10MT30325G2
+- **Curso básico de Python (Gustavo Guanabara)**: https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&ab_channel=CursoemV%C3%ADdeo
+- **Curso Completo de Python - do Zero ao Avançado (Masterclass - Bóson)** : https://www.youtube.com/watch?v=-VeVq64Fgw0&t=2s&ab_channel=B%C3%B3sonTreinamentos
+
+
+## Indicação de Livros
+
+- **Python Fluente**: https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X
+- **Pense em Python**: https://a.co/d/bnPPciY
+- **Introdução à Programação com Python**: https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-Algoritmos/dp/8575227181
+- **Entendendo Algoritmos**: https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634
+- **A startup enxuta**: https://www.amazon.com.br/startup-enxuta-Eric-Ries/dp/8543108624
+
+
+### Este repositório está aberto para contribuições de todos os alunos e professores de GTI da CESAR SCHOOL
+
+*“A arte desafia a tecnologia, e a tecnologia inspira a arte”*
