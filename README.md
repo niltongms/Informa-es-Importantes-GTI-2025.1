@@ -97,7 +97,7 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 
 - **Blog Hipster.tech**: https://www.hipsters.tech/
 - **Curso de Design(UX/UI) e Frontend (Pago)**: https://www.origamid.com/
-- **Melhor curso de Java que você verá hoje**: https://www.udemy.com/course/java-curso-completo/?couponCode=ST10MT30325G2
+- **Melhor curso de Java que você verá hoje (Pago)**: https://www.udemy.com/course/java-curso-completo/?couponCode=ST10MT30325G2
 - **Curso básico de Python (Gustavo Guanabara)**: https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&ab_channel=CursoemV%C3%ADdeo
 - **Curso Completo de Python - do Zero ao Avançado (Masterclass - Bóson)** : https://www.youtube.com/watch?v=-VeVq64Fgw0&t=2s&ab_channel=B%C3%B3sonTreinamentos
 
