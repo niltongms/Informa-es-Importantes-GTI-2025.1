@@ -1,10 +1,10 @@
 # Informações Importantes GTI 2025.1
 Este repositório reúne links e informações sobre as plataformas usadas na nossa instituição, como o Lyceum, NEO, Circle e o Portal de Carreiras, além de dados sobre o calendário acadêmico, aulas e retirada de dúvidas.
-
+<br>
 
 
 # Resumo das Plataformas
-
+<br>
 
 ## Lyceum
 O **Lyceum** (portal acadêmico) é praticamente nossa secretaria. Ele contém informações financeiras, documentos e outras funcionalidades.
@@ -16,7 +16,7 @@ O **NEO** é nossa plataforma de estudos, onde encontramos nosso material de aul
 
 ## Circle
 O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele lembra plataformas como o Discord e o Reddit.
-
+<br>
 
 
 ## Links Importantes
@@ -27,7 +27,7 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 - **Acessar o Circle (comunidade)**: [https://login.circle.so/sign_up?request_host=comunidade.cesar.school&user%5Binvitation_token%5D=1539d1929e4b0d0d37afcd4f63f51a435ac2705b-02416952-1920-4817-9e37-8e9a53ce6693#email](https://login.circle.so/sign_up?request_host=comunidade.cesar.school&user%5Binvitation_token%5D=1539d1929e4b0d0d37afcd4f63f51a435ac2705b-02416952-1920-4817-9e37-8e9a53ce6693#email)
 - **Solicitação de Crachá**: [https://docs.google.com/forms/d/e/1FAIpQLScKntCcJB0Thpg_Kc1egnAAAn4-T0rOUWrHMsXfxFQWZ1k3cQ/formrestricted?pli=1](https://docs.google.com/forms/d/e/1FAIpQLScKntCcJB0Thpg_Kc1egnAAAn4-T0rOUWrHMsXfxFQWZ1k3cQ/formrestricted?pli=1)
 - **Calendário**: [https://sites.google.com/cesar.school/graduacao/horarios?authuser=0](https://sites.google.com/cesar.school/graduacao/horarios?authuser=0)
-
+<br>
 
 
 
@@ -39,7 +39,7 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
       - *Acessar o Colab com o email CESAR*
 
 
-
+<br>
 ## Canais no Youtube sobre Programação e Tecnologia
 
 - **Curso em Vídeo**: https://www.youtube.com/c/CursoemV%C3%ADdeo
@@ -83,7 +83,7 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 
 
 
-
+<br>
 ## Livros (Ultrasecreto) 
 
 - **Repositório LivrosDev**: https://github.com/KAYOKG/BibliotecaDev/tree/main/LivrosDev
@@ -91,7 +91,7 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 
 
 
-
+<br>
 ## Utilidade e dicas
 
 - **Blog Hipster.tech**: https://www.hipsters.tech/
@@ -101,7 +101,7 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 - **Curso Completo de Python - do Zero ao Avançado (Masterclass - Bóson)** : https://www.youtube.com/watch?v=-VeVq64Fgw0&t=2s&ab_channel=B%C3%B3sonTreinamentos
 
 
-
+<br>
 ## Indicação de Livros
 
 - **Python Fluente**: https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X
@@ -111,7 +111,10 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 - **A startup enxuta**: https://www.amazon.com.br/startup-enxuta-Eric-Ries/dp/8543108624
 
 
+<br>
 
-
-***Este repositório está aberto para contribuições de todos os alunos e professores de GTI da CESAR SCHOOL***/
+***Este repositório está aberto para contribuições de todos os alunos e professores de GTI da CESAR SCHOOL***
+<br>
+<br>
+<br>
 *“A arte desafia a tecnologia, e a tecnologia inspira a arte”*
