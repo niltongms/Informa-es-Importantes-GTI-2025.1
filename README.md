@@ -17,7 +17,7 @@ O **NEO** é nossa plataforma de estudos, onde encontramos nosso material de aul
 ## Circle
 O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele lembra plataformas como o Discord e o Reddit.
 <br>
-
+<br>
 
 ## Links Importantes
 
@@ -28,6 +28,7 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 - **Solicitação de Crachá**: [https://docs.google.com/forms/d/e/1FAIpQLScKntCcJB0Thpg_Kc1egnAAAn4-T0rOUWrHMsXfxFQWZ1k3cQ/formrestricted?pli=1](https://docs.google.com/forms/d/e/1FAIpQLScKntCcJB0Thpg_Kc1egnAAAn4-T0rOUWrHMsXfxFQWZ1k3cQ/formrestricted?pli=1)
 - **Calendário**: [https://sites.google.com/cesar.school/graduacao/horarios?authuser=0](https://sites.google.com/cesar.school/graduacao/horarios?authuser=0)
 <br>
+<br>
 
 
 
@@ -37,9 +38,9 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 - **Vscode**: https://code.visualstudio.com/
 - **Colab Google**: https://colab.google/
       - *Acessar o Colab com o email CESAR*
-
-
 <br>
+<br>
+
 ## Canais no Youtube sobre Programação e Tecnologia
 
 - **Curso em Vídeo**: https://www.youtube.com/c/CursoemV%C3%ADdeo
@@ -81,17 +82,17 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 - **Hardware Hacking**: https://www.youtube.com/@HardwareHacking
             - *Hardware Hacking*
 
-
-
 <br>
+<br>
+
 ## Livros (Ultrasecreto) 
 
 - **Repositório LivrosDev**: https://github.com/KAYOKG/BibliotecaDev/tree/main/LivrosDev
 
-
-
-
 <br>
+<br>
+
+
 ## Utilidade e dicas
 
 - **Blog Hipster.tech**: https://www.hipsters.tech/
@@ -100,8 +101,9 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 - **Curso básico de Python (Gustavo Guanabara)**: https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&ab_channel=CursoemV%C3%ADdeo
 - **Curso Completo de Python - do Zero ao Avançado (Masterclass - Bóson)** : https://www.youtube.com/watch?v=-VeVq64Fgw0&t=2s&ab_channel=B%C3%B3sonTreinamentos
 
-
 <br>
+<br>
+
 ## Indicação de Livros
 
 - **Python Fluente**: https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X
@@ -111,6 +113,10 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 - **A startup enxuta**: https://www.amazon.com.br/startup-enxuta-Eric-Ries/dp/8543108624
 
 
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ***Este repositório está aberto para contribuições de todos os alunos e professores de GTI da CESAR SCHOOL***
