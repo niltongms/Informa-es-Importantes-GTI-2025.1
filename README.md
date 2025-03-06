@@ -28,24 +28,24 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 
 ## Tecnologia Usadas nas aulas
 
-- **Python**: [https://www.python.org/)
-- **Vscode**: [https://code.visualstudio.com/)
-- **Colab Google**: [https://colab.google/)
+- **Python**: https://www.python.org/
+- **Vscode**: https://code.visualstudio.com/
+- **Colab Google**: https://colab.google/
       - *Acessar o Colab com o email CESAR*
   
 
 ## Utilidade e dicas
 
-- **Curso básico de Python (Gustavo Guanabara)**: [https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&ab_channel=CursoemV%C3%ADdeo)
-- **Curso Completo de Python - do Zero ao Avançado (Masterclass - Bóson)** : [https://www.youtube.com/watch?v=-VeVq64Fgw0&t=2s&ab_channel=B%C3%B3sonTreinamentos)
+- **Curso básico de Python (Gustavo Guanabara)**: https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&ab_channel=CursoemV%C3%ADdeo
+- **Curso Completo de Python - do Zero ao Avançado (Masterclass - Bóson)** : https://www.youtube.com/watch?v=-VeVq64Fgw0&t=2s&ab_channel=B%C3%B3sonTreinamentos
 
 
 
 ## Bons canais no Youtube sobre Programação e Tecnologia
-- **Curso em Vídeo**: [https://www.youtube.com/c/CursoemV%C3%ADdeo)
+- **Curso em Vídeo**: https://www.youtube.com/c/CursoemV%C3%ADdeo
 - 
 
 
 ## Livros (Ultrasecreto) 
 
-- **Repositório LivrosDev**: [https://github.com/KAYOKG/BibliotecaDev/tree/main/LivrosDev)
+- **Repositório LivrosDev**: https://github.com/KAYOKG/BibliotecaDev/tree/main/LivrosDev
