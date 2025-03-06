@@ -2,8 +2,10 @@
 Este repositório reúne links e informações sobre as plataformas usadas na nossa instituição, como o Lyceum, NEO, Circle e o Portal de Carreiras, além de dados sobre o calendário acadêmico, aulas e retirada de dúvidas.
 
 
+
 # Resumo das Plataformas
-\
+
+
 ## Lyceum
 O **Lyceum** (portal acadêmico) é praticamente nossa secretaria. Ele contém informações financeiras, documentos e outras funcionalidades.
 
@@ -14,8 +16,9 @@ O **NEO** é nossa plataforma de estudos, onde encontramos nosso material de aul
 
 ## Circle
 O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele lembra plataformas como o Discord e o Reddit.
-\
-\
+
+
+
 ## Links Importantes
 
 - **Acessar o Lyceum**: [https://cesar.lyceum.com.br/](https://cesar.lyceum.com.br/)
@@ -24,8 +27,9 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 - **Acessar o Circle (comunidade)**: [https://login.circle.so/sign_up?request_host=comunidade.cesar.school&user%5Binvitation_token%5D=1539d1929e4b0d0d37afcd4f63f51a435ac2705b-02416952-1920-4817-9e37-8e9a53ce6693#email](https://login.circle.so/sign_up?request_host=comunidade.cesar.school&user%5Binvitation_token%5D=1539d1929e4b0d0d37afcd4f63f51a435ac2705b-02416952-1920-4817-9e37-8e9a53ce6693#email)
 - **Solicitação de Crachá**: [https://docs.google.com/forms/d/e/1FAIpQLScKntCcJB0Thpg_Kc1egnAAAn4-T0rOUWrHMsXfxFQWZ1k3cQ/formrestricted?pli=1](https://docs.google.com/forms/d/e/1FAIpQLScKntCcJB0Thpg_Kc1egnAAAn4-T0rOUWrHMsXfxFQWZ1k3cQ/formrestricted?pli=1)
 - **Calendário**: [https://sites.google.com/cesar.school/graduacao/horarios?authuser=0](https://sites.google.com/cesar.school/graduacao/horarios?authuser=0)
-\
-\
+
+
+
 
 ## Tecnologia Usadas nas aulas
 
@@ -33,8 +37,9 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 - **Vscode**: https://code.visualstudio.com/
 - **Colab Google**: https://colab.google/
       - *Acessar o Colab com o email CESAR*
-\  
-\
+
+
+
 ## Canais no Youtube sobre Programação e Tecnologia
 
 - **Curso em Vídeo**: https://www.youtube.com/c/CursoemV%C3%ADdeo
@@ -74,15 +79,17 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 - **Programador Lhama**: https://www.youtube.com/@ProgramadorLhama
             - *Python e outras paradas legais*
 - **Hardware Hacking**: https://www.youtube.com/@HardwareHacking
-            - *Hardware Hacking*\
-\
+            - *Hardware Hacking*
+
+
 
 
 ## Livros (Ultrasecreto) 
 
 - **Repositório LivrosDev**: https://github.com/KAYOKG/BibliotecaDev/tree/main/LivrosDev
-\
-\
+
+
+
 
 
 ## Utilidade e dicas
@@ -92,8 +99,9 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 - **Melhor curso de Java que você verá hoje**: https://www.udemy.com/course/java-curso-completo/?couponCode=ST10MT30325G2
 - **Curso básico de Python (Gustavo Guanabara)**: https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&ab_channel=CursoemV%C3%ADdeo
 - **Curso Completo de Python - do Zero ao Avançado (Masterclass - Bóson)** : https://www.youtube.com/watch?v=-VeVq64Fgw0&t=2s&ab_channel=B%C3%B3sonTreinamentos
-\
-\
+
+
+
 ## Indicação de Livros
 
 - **Python Fluente**: https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X
@@ -101,6 +109,8 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 - **Introdução à Programação com Python**: https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-Algoritmos/dp/8575227181
 - **Entendendo Algoritmos**: https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634
 - **A startup enxuta**: https://www.amazon.com.br/startup-enxuta-Eric-Ries/dp/8543108624
+
+
 
 
 ### Este repositório está aberto para contribuições de todos os alunos e professores de GTI da CESAR SCHOOL
