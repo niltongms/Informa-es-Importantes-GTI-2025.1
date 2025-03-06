@@ -113,6 +113,5 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 
 
 
-### Este repositório está aberto para contribuições de todos os alunos e professores de GTI da CESAR SCHOOL
-
+***Este repositório está aberto para contribuições de todos os alunos e professores de GTI da CESAR SCHOOL***/
 *“A arte desafia a tecnologia, e a tecnologia inspira a arte”*
