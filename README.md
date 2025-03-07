@@ -41,6 +41,15 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 <br>
 <br>
 
+## Bibliotecas Virtuais
+- **Pearson**: https://plataforma.bvirtual. com.br/Account/Login
+            - *Clique em 'Esqueci minha senha' para a realização do cadastro*
+<br>
+- **Minha Biblioteca**: https://dliportal.zbra.com.br/ Login.aspx?key=CESARSchool
+            - *(**Usuário**: E-mail school, **Senha:** Nº do seu CPF (com pontos e hífen)*
+<br>
+<br>
+
 ## Canais no Youtube sobre Programação e Tecnologia
 
 - **Curso em Vídeo**: https://www.youtube.com/c/CursoemV%C3%ADdeo
