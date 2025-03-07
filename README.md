@@ -27,7 +27,7 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 - **Acessar o Circle (comunidade)**: [https://login.circle.so/sign_up?request_host=comunidade.cesar.school&user%5Binvitation_token%5D=1539d1929e4b0d0d37afcd4f63f51a435ac2705b-02416952-1920-4817-9e37-8e9a53ce6693#email](https://login.circle.so/sign_up?request_host=comunidade.cesar.school&user%5Binvitation_token%5D=1539d1929e4b0d0d37afcd4f63f51a435ac2705b-02416952-1920-4817-9e37-8e9a53ce6693#email)
 - **Solicitação de Crachá**: [https://docs.google.com/forms/d/e/1FAIpQLScKntCcJB0Thpg_Kc1egnAAAn4-T0rOUWrHMsXfxFQWZ1k3cQ/formrestricted?pli=1](https://docs.google.com/forms/d/e/1FAIpQLScKntCcJB0Thpg_Kc1egnAAAn4-T0rOUWrHMsXfxFQWZ1k3cQ/formrestricted?pli=1)
 - **Calendário**: [https://sites.google.com/cesar.school/graduacao/horarios?authuser=0](https://sites.google.com/cesar.school/graduacao/horarios?authuser=0)
-- **Carteira de Estudante**: [https://docs.google.com/forms/u/0/d/e/1FAIpQLSdfB595F1WWYESAbZhS5yAVraiPWPfK7tqIh6f8YwsJpCI75w/viewform?pli=1) 
+- **Carteira de Estudante**: https://docs.google.com/forms/u/0/d/e/1FAIpQLSdfB595F1WWYESAbZhS5yAVraiPWPfK7tqIh6f8YwsJpCI75w/viewform?pli=1
 <br>
 <br>
 
