@@ -28,6 +28,7 @@ O **Circle** é a comunidade dos alunos, funcionando como uma rede social. Ele l
 - **Solicitação de Crachá**: [https://docs.google.com/forms/d/e/1FAIpQLScKntCcJB0Thpg_Kc1egnAAAn4-T0rOUWrHMsXfxFQWZ1k3cQ/formrestricted?pli=1](https://docs.google.com/forms/d/e/1FAIpQLScKntCcJB0Thpg_Kc1egnAAAn4-T0rOUWrHMsXfxFQWZ1k3cQ/formrestricted?pli=1)
 - **Calendário**: [https://sites.google.com/cesar.school/graduacao/horarios?authuser=0](https://sites.google.com/cesar.school/graduacao/horarios?authuser=0)
 - **Carteira de Estudante**: https://docs.google.com/forms/u/0/d/e/1FAIpQLSdfB595F1WWYESAbZhS5yAVraiPWPfK7tqIh6f8YwsJpCI75w/viewform?pli=1
+- **Material das Aulas de Fundamentos**: https://drive.google.com/drive/u/7/folders/1rbTty_wgWW2GvsiwElXPLwmwQcaUgHjb
 <br>
 <br>
 
